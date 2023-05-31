@@ -1,0 +1,3 @@
+nlppr/
+
+.ipynb_checkpoints/
