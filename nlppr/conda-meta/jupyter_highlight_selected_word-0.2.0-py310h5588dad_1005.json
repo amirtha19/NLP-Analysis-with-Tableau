@@ -1,0 +1,160 @@
+{
+  "build": "py310h5588dad_1005",
+  "build_number": 1005,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "jupyter_contrib_core >=0.3",
+    "notebook >=4.0",
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\Users\\amirt\\.conda\\pkgs\\jupyter_highlight_selected_word-0.2.0-py310h5588dad_1005",
+  "features": "",
+  "files": [
+    "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/METADATA",
+    "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/RECORD",
+    "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/WHEEL",
+    "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/jupyter_highlight_selected_word/__init__.py",
+    "Lib/site-packages/jupyter_highlight_selected_word/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jupyter_highlight_selected_word/static/highlight_selected_word/README.md",
+    "Lib/site-packages/jupyter_highlight_selected_word/static/highlight_selected_word/configurator.yaml",
+    "Lib/site-packages/jupyter_highlight_selected_word/static/highlight_selected_word/main.js",
+    "Scripts/.jupyter_highlight_selected_word-post-link.bat",
+    "Scripts/.jupyter_highlight_selected_word-pre-unlink.bat"
+  ],
+  "fn": "jupyter_highlight_selected_word-0.2.0-py310h5588dad_1005.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\amirt\\.conda\\pkgs\\jupyter_highlight_selected_word-0.2.0-py310h5588dad_1005",
+    "type": 1
+  },
+  "md5": "1e658071624b0a64abc9f8c990b8093c",
+  "name": "jupyter_highlight_selected_word",
+  "package_tarball_full_path": "C:\\Users\\amirt\\.conda\\pkgs\\jupyter_highlight_selected_word-0.2.0-py310h5588dad_1005.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "f1cdd7963802877fb7cd30eff54fa1e377cedfc9e1e77e51861ce8b70c700f0c",
+        "sha256_in_prefix": "f1cdd7963802877fb7cd30eff54fa1e377cedfc9e1e77e51861ce8b70c700f0c",
+        "size_in_bytes": 1640
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "52db2909396811069abc665b1ea322aae602f58f75a79a8efbcbd43bdf0a8f2c",
+        "sha256_in_prefix": "52db2909396811069abc665b1ea322aae602f58f75a79a8efbcbd43bdf0a8f2c",
+        "size_in_bytes": 722
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "275859854aa7b95b2fb0209e75976bdb72e06a76e103b0781cf33ff974419df3",
+        "sha256_in_prefix": "275859854aa7b95b2fb0209e75976bdb72e06a76e103b0781cf33ff974419df3",
+        "size_in_bytes": 1427
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "sha256_in_prefix": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "36515996da1d596a9203d44dc1501b12b3b62c57d65abdbd9f34aabc9cc94146",
+        "sha256_in_prefix": "36515996da1d596a9203d44dc1501b12b3b62c57d65abdbd9f34aabc9cc94146",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word-0.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "89f445bd669a5d52e7880a35f454b4cc02a64cfb36ae00b504520f48c0bd619b",
+        "sha256_in_prefix": "89f445bd669a5d52e7880a35f454b4cc02a64cfb36ae00b504520f48c0bd619b",
+        "size_in_bytes": 32
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "bb78e5d16e0f4d24d5896da01e2e79ac739674f20476497d5e04de272baed5e4",
+        "sha256_in_prefix": "bb78e5d16e0f4d24d5896da01e2e79ac739674f20476497d5e04de272baed5e4",
+        "size_in_bytes": 760
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "2bee31e13b669369ec5e939b764b13a15fc6cfce9c2963be4ec4a40a5a2dffb1",
+        "sha256_in_prefix": "2bee31e13b669369ec5e939b764b13a15fc6cfce9c2963be4ec4a40a5a2dffb1",
+        "size_in_bytes": 566
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word/static/highlight_selected_word/README.md",
+        "path_type": "hardlink",
+        "sha256": "c1e4c247ab62efac424e1bdc8eafd2fd4be696c8367e26a57cd65174cc6db6a3",
+        "sha256_in_prefix": "c1e4c247ab62efac424e1bdc8eafd2fd4be696c8367e26a57cd65174cc6db6a3",
+        "size_in_bytes": 4924
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word/static/highlight_selected_word/configurator.yaml",
+        "path_type": "hardlink",
+        "sha256": "524d491c1d6af9683fecc13a90a40860163f08cc39c520da869e59381dffd371",
+        "sha256_in_prefix": "524d491c1d6af9683fecc13a90a40860163f08cc39c520da869e59381dffd371",
+        "size_in_bytes": 4135
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_highlight_selected_word/static/highlight_selected_word/main.js",
+        "path_type": "hardlink",
+        "sha256": "a217d4444b879998147bb1873fa2f81b3f4d2cd1de8d9f70c94bc253900f07a3",
+        "sha256_in_prefix": "a217d4444b879998147bb1873fa2f81b3f4d2cd1de8d9f70c94bc253900f07a3",
+        "size_in_bytes": 13598
+      },
+      {
+        "_path": "Scripts/.jupyter_highlight_selected_word-post-link.bat",
+        "path_type": "hardlink",
+        "sha256": "d36aec97dace24638049bc425ee6afa5a9a8973ad83ae75090f6a66dbc7fae6f",
+        "sha256_in_prefix": "d36aec97dace24638049bc425ee6afa5a9a8973ad83ae75090f6a66dbc7fae6f",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Scripts/.jupyter_highlight_selected_word-pre-unlink.bat",
+        "path_type": "hardlink",
+        "sha256": "317b37473c7458a6cca29c91a2505057a96f33cee47a46d916fda0a90adb5e22",
+        "sha256_in_prefix": "317b37473c7458a6cca29c91a2505057a96f33cee47a46d916fda0a90adb5e22",
+        "size_in_bytes": 436
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "cd45441019438e1baf0b0511ba355a6a360cd3412e6a58c2829580783a0cdd2c",
+  "size": 15599,
+  "subdir": "win-64",
+  "timestamp": 1638383293051,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/jupyter_highlight_selected_word-0.2.0-py310h5588dad_1005.tar.bz2",
+  "version": "0.2.0"
+}
